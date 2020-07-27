@@ -32,8 +32,8 @@ body {
     font-family: "Score Board", sans-serif;
     text-align: center;
     background: #2c2c2c;
-    color: #fd8049;
-    text-shadow: 0 0 3px #fd8049;
+    color: hotpink;
+    text-shadow: 0 0 3px hotpink;
     padding: 1rem 0;
 }
 
@@ -84,7 +84,7 @@ body {
 .versus h1 {
   font-family: againtsregular, oswald, sans-serif;
   font-size: 500%;
-  color: #fc0;
+  color: darkgoldenrod;
   text-shadow: 2px 2px 0 black;
 }
 
@@ -93,7 +93,7 @@ button {
   margin-top: 1rem;
   width: 100%;
   padding: 0.5rem;
-  background-color: #fc0;
+  background-color: darkmagenta;
   border: 0;
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
